@@ -1,5 +1,10 @@
 # SwiftUseMarkdown
 
+### 更改快捷键
+
+打开Xcode -> reference -> key blindings -> 输入 show render -> 更改markdown的快捷键
+
+
 /*:
 `IntArray`is a C-like random access collection of integers.
 
